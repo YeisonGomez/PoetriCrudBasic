@@ -1,0 +1,14 @@
+{
+  "name": "crudbasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yeison Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.14.0"
+  }
+}
